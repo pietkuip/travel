@@ -6,7 +6,7 @@ date:   2023-09-10 10:51:47 +0530
 categories: jekyll update
 img: Dachshund-Milo.jpg
 categories: [petsitting, bicycle]
-color: '006064'
+color: '7E57C2'
 author: pietkuip
 ---
 
