@@ -45,7 +45,7 @@ having coffee in the mornings with a croissant at Café de la Place, reading the
 
 ### Saturday, Sunday
 
-Saturday is market day in Pernes. It was very close buy, the perfect spot to buy some local food. Or _Pad Thaï_! I explored more 
+Saturday is market day in Pernes. It was very close by, the perfect spot to buy some local food. Or _Pad Thaï_! I explored more 
 walks. The standard walk was in the river bed of the Nesque next to the city walls, but I could also take Tahoe in other directions, into the fields on the other side of the irrigation canal.
 
 ![The cats](../images/Z-and-Z.jpg)|![](../images/Tahoe-canal.jpg)|
