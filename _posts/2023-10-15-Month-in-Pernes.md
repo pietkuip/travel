@@ -25,5 +25,15 @@ of lighting of the historical monuments of France. He gave me a signed copy of h
 
 On Wednesday, I cycled to L'Isle sur la Sorgue. I had been there in 1987, also by bicycle, and it was still just as beautiful.
 I had lunch by the river, a niçoise sallad, looked around a bit, and cycled back. There was a nice path along the Canal de
-Carpentras. It is an irrigation canal that follows countour lines, with hills on one side and lower-lying fields on the other side,
-luscious green because there is always water. 
+Carpentras. This irrigation canal must follow countour lines, with hills on one side and lower-lying fields on the other side,
+lusciously green because there is always water. 
+
+On Thursday, Carine would come at 10 am to give instructions for the care of the animals, the home and especially of the garden.
+The weather was still very warm. I was very lucky that their cleaning help would use her time on Mondays to take care a watering
+plants and that there was at least one night with lots of rain.
+
+### Friday
+
+On Friday morning, Carine and Vincent left for the airport. I was to send daily photos of the pets, so there are many images.
+
+![](Caca-est-fait.jpg)|![](Tahoe-lunch.jpg) 
