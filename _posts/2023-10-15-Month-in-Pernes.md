@@ -15,6 +15,10 @@ author: pietkuip
 This did not start off well. I had been invited to stay a few days before the owners would leave, which was nice of course.
 They did not need to worry about me getting there in time, and it gave me the opportunity to explore without the 
 pet-sitting duties. So I arrived at the end of the afternoon. We had coffee in the garden, but I crashed through the chair that 
-I was offered! At least I did not hurt my back or something like that. After that, I used the simpler type of chairs.
+I was offered! At least I did not hurt my back or something like that. After that, I used the simpler type of chairs, with 
+straight legs.
 
-Later we had a nice dinner, that Vincent had cooked.
+Later we had a nice dinner, that Vincent had cooked. On Tuesday he showed me around in the medieval town (the home is just 
+outside the old city walls, almost right across from the river Nesque). He had an amazing career: born in a rural Brittany, 
+leaving school at 15, he became an artist and later had a career at the French Department of Culture, where he was in charge
+of lighting of the historical monuments of France. He gave me a signed copy of his book _Les Lumières de la ville_.
