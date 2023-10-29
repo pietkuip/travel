@@ -47,6 +47,15 @@ having coffee in the mornings with a croissant at Café de la Place, reading the
 
 Saturday is market day in Pernes. It was very close buy, the perfect spot to buy some local food. Or _Pad Thaï_! I explored more 
 walks. The standard walk was in the river bed of the Nesque next to the city walls, but I could also take Tahoe in other directions,
-towards the irrigation canal or up the hills.
+towards the irrigation canal or into town.
 
-![The cats](../images/Z-and-Z.jpg)|![](../images/Canal-Tahoe.jpg)|![](../images/Hill-Tahoe.jpg)
+![The cats](../images/Z-and-Z.jpg)|![](../images/Canal-Tahoe.jpg)|
+
+### Monday 
+
+In the morning I took Tahoe up the hills. I really wanted to try to find more walks where there was no danger from car traffic.
+
+![](../images/Hill-Tahoe.jpg)
+
+Monday afternoons were my time off. Tahoe had then company of Nathalie, the cleaning lady. During my sit, she worked mostly in 
+the garden, watering the plants. I went off to [Venasque], the old capital of the Comtat.
