@@ -57,4 +57,4 @@ In the morning I took Tahoe up the hills. I really wanted to try to find more wa
 ![](../images/Tahoe-hills.jpg)
 
 Monday afternoons were my time off. Tahoe had then company of Nathalie, the cleaning lady. During my sit, she worked mostly in 
-the garden, watering the plants. I went off to [Venasque](../Venasque/), the old capital of the Comtat.
+the garden, watering the plants. I went off to [Venasque](https://pietkuip.github.io/travel/Venasque/), the old capital of the Comtat.
