@@ -11,6 +11,7 @@ author: pietkuip
 ---
 
 === Monday
+
 This did not start off well. I had been invited to stay a few days before the owners would leave, which was nice of course.
 They did not need to worry about me getting there in time, and it gave me the opportunity to explore without the 
 pet-sitting duties. So I arrived at the end of the afternoon. We had coffee in the garden, but I crashed through the chair that 
