@@ -38,3 +38,8 @@ On Friday morning, Carine and Vincent left for the airport. I was to send daily 
 
 ![](../images/Caca-est-fait.jpg)|![](../images/Tahoe-lunch.jpg)|![The cats](../images/Z-and-Z.jpg)
 
+It was a pleasure to take the dog to restaurants. In this kind of settings, Tahoe was on his best behaviour. Unlike Milo in Geneva,
+he just ignored all provocations by a yapping poodle that its owner family let run around. He stayed just quietly and peacefully
+under the table. This is where he was exemplarily well-trained.
+
+
