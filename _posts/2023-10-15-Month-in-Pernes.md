@@ -10,7 +10,7 @@ color: '7E57C2'
 author: pietkuip
 ---
 
-=== Monday
+### Monday
 
 This did not start off well. I had been invited to stay a few days before the owners would leave, which was nice of course.
 They did not need to worry about me getting there in time, and it gave me the opportunity to explore without the 
