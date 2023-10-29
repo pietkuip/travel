@@ -2,7 +2,7 @@
 layout: post
 title:  "A month in Pernes (Provence)"
 description: Sitting a dog and two cats in Pernes-les-Fontaines
-date:   2023-10-15 10:51:47 +0530
+date:   2023-09-11 23:51:47 +0530
 categories: jekyll update
 img: Pernes-Nesque.jpg
 categories: [petsitting, bicycle]
@@ -39,7 +39,8 @@ On Friday morning, Carine and Vincent left for the airport. I was to send daily 
 ![](../images/Caca-est-fait.jpg)|![](../images/Tahoe-lunch.jpg)|![The cats](../images/Z-and-Z.jpg)
 
 It was a pleasure to take the dog to restaurants. In this kind of settings, Tahoe was on his best behaviour. Unlike Milo in Geneva,
-he just ignored all provocations by a yapping poodle that its owner family let run around. He stayed just quietly and peacefully
-under the table. This is where he was exemplarily well-trained.
+he completely ignored all provocations by a yapping poodle that its owner family let run around. He stayed just quietly and
+peacefully under the table. This is where he was exemplarily well-trained. Pet setting this way was perfect, for example
+having coffee with a croissant at Café de la Place, reading the _Le Monde_ newspaper that I had taken with me.
 
 
