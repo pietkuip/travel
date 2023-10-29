@@ -36,4 +36,5 @@ plants and that there was at least one night with lots of rain.
 
 On Friday morning, Carine and Vincent left for the airport. I was to send daily photos of the pets, so there are many images.
 
-![](../images/Caca-est-fait.jpg)|![](../images/Tahoe-lunch.jpg) 
+![](../images/Caca-est-fait.jpg)|![](../images/Tahoe-lunch.jpg)|![The cats](../images/Z-and-Z.jpg)
+
