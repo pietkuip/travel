@@ -36,11 +36,17 @@ plants and that there was at least one night with lots of rain.
 
 On Friday morning, Carine and Vincent left for the airport. I was to send daily photos of the pets, so there are many images.
 
-![](../images/Caca-est-fait.jpg)|![](../images/Tahoe-lunch.jpg)|![The cats](../images/Z-and-Z.jpg)
+![](../images/Caca-est-fait.jpg)|![](../images/Tahoe-lunch.jpg)|
 
 It was a pleasure to take the dog to restaurants. In this kind of settings, Tahoe was on his best behaviour. Unlike Milo in Geneva,
-he completely ignored all provocations by a yapping poodle that its owner family let run around. He stayed just quietly and
+he could completely ignore all provocations by a yapping poodle that its owner family let run around. He stayed just quietly and
 peacefully under the table. This is where he was exemplarily well-trained. Pet setting this way was perfect, for example
-having coffee with a croissant at Café de la Place, reading the _Le Monde_ newspaper that I had taken with me.
+having coffee in the mornings with a croissant at Café de la Place, reading the _Le Monde_ newspaper that was delivered at the home.
 
+### Saturday, Sunday
 
+Saturday is market day in Pernes. It was very close buy, the perfect spot to buy some local food. Or _Pad Thaï_! I explored more 
+walks. The standard walk was in the river bed of the Nesque next to the city walls, but I could also take Tahoe in other directions,
+towards the irrigation canal or up the hills.
+
+![The cats](../images/Z-and-Z.jpg)|![](../images/Canal-Tahoe.jpg)|![](../images/Hill-Tahoe.jpg)
