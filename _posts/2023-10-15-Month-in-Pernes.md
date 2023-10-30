@@ -52,7 +52,7 @@ walks. The standard walk was in the river bed of the Nesque next to the city wal
 
 ### Monday 
 
-In the morning I took Tahoe up the hills. I really wanted to try to find more walks where there was no danger from car traffic.
+In the morning I took Tahoe up the hills, overlooking the town. I really wanted to try to find more walks where there was no danger from car traffic.
 
 ![](../images/Tahoe-hills.jpg)
 
