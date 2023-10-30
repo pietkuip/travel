@@ -4,7 +4,7 @@ title:  "Fontaine de Vaucluse"
 description:
 date:   2023-10-02 10:51:47 +0530
 categories: jekyll update
-img:
+img: Fontaine-de-Vaucluse.jpg
 categories: [bicycle]
 color: 4CAF50
 author: pietkuip
