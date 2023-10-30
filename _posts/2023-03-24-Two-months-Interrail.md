@@ -22,7 +22,7 @@ Costa del Sol, then back home again on May 23. I just made it in time.
 
 ### March 24/25: Basel - Hamburg - Copenhagen - Växjö
 
-### April: Växjö - Copenhagen - Hamburg - Munich - Bologna
+### April 4-6: Växjö - Copenhagen - Hamburg - Munich - Verona - Bologna
 
 ### April 16/17: Bologna - Milano - Marseille - Agen - Siorac-en-Périgord
 
