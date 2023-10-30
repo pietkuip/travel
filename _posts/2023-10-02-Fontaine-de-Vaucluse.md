@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Fontaine de Vaucluse"
-description:
+description: When I looked in old photo albums, I saw that I had been here in 1987.
 date:   2023-10-02 10:51:47 +0530
 categories: jekyll update
 img: Fontaine-de-Vaucluse-bridge.jpg
