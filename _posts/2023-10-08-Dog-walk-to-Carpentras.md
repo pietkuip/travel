@@ -10,8 +10,8 @@ color: 03A9F4
 author: pietkuip
 ---
 
-I had invested 30 € in a retractable tape leash from flexi with an 8 € holder for the poop bags. The tape was neon-orange 
-fluorescent so that I was prepared for sits with dark and rainy evening walks. As a cyclist I really hated those invisible
+I had invested 30 € in a retractable tape leash from _flexi_ along with an 8 € holder for the poop bags. The tape was neon-orange 
+fluorescent so that I would be prepared for sits with dark and rainy evening walks. As a cyclist I really hated those invisible
 leashes from pedestrians to almost-invisible black dogs. Milo in Geneva had a retractable leash and I thought that it might 
 it make easier to walk Tahoe. Indeed it did. No more that the leash got caught behind branches on the ground or that it 
 would get wrapped around me.
