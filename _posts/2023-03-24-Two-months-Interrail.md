@@ -18,17 +18,17 @@ I started using mine on March 24 after the dog sit in Weil am Rhein, to travel f
 back to Växjö.
 
 My next dog sit after that was in Bologna, then St. Cyprien in Dordogne, then Estepona on the 
-Costa del Sol, then back home again on May 23. I just made it in time.
+Costa del Sol, then back home again on May 23. I just made it in time. I think I used about 16 train days.
 
-### March 24/25: Basel - Hamburg - Copenhagen - Växjö
+#### March 24/25: Basel - Hamburg - Copenhagen - Växjö
 
-### April 4-6: Växjö - Copenhagen - Hamburg - Munich - Verona - Bologna
+#### April 4-6: Växjö - Copenhagen - Hamburg - Munich - Verona - Bologna
 
-### April 16/17: Bologna - Milano - Marseille - Agen - Siorac-en-Périgord
+#### April 16/17: Bologna - Milano - Marseille - Agen - Siorac-en-Périgord
 
-### May 9-12: Saint Cyprien - Bordeaux - Hendaye - San Sebastián - Madrid - Granada - Málaga 
+#### May 9-12: Saint Cyprien - Bordeaux - Hendaye - San Sebastián - Madrid - Granada - Málaga 
 
-### May 20-23: Málaga - Barcelona - Portbou - Narbonne - Avignon - Valence - Grenoble - Geneva - Olten - Mannheim - Hamburg - Copenhagen - Växjö
+#### May 20-23: Málaga - Barcelona - Portbou - Narbonne - Avignon - Valence - Grenoble - Geneva - Olten - Mannheim - Hamburg - Copenhagen - Växjö
 
 
 
