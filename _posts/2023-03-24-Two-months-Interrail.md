@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Interrail"
-description: Two months 
+title:  "Two months on Interrail"
+description: 
 categories: jekyll update
 img: Interrail.jpg
 categories: two
@@ -19,3 +19,5 @@ back to Växjö.
 
 My next dog sit after that was in Bologna, then St. Cyprien in Dordogne, then Estepona on the 
 Costa del Sol, then back home again on May 23. I just made it in time.
+
+
