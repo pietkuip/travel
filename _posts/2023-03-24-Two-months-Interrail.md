@@ -20,4 +20,15 @@ back to Växjö.
 My next dog sit after that was in Bologna, then St. Cyprien in Dordogne, then Estepona on the 
 Costa del Sol, then back home again on May 23. I just made it in time.
 
+### March 24/25: Basel - Hamburg - Copenhagen - Växjö
+
+### April: Växjö - Copenhagen - Hamburg - Munich - Bologna
+
+### April 16/17: Bologna - Milano - Marseille - Agen - Siorac-en-Périgord
+
+### May 9-12: Saint Cyprien - Bordeaux - Hendaye - San Sebastián - Madrid - Granada - Málaga 
+
+### May 20-23: Málaga - Barcelona - Portbou - Narbonne - Avignon - Valence - Grenoble - Geneva - Olten - Mannheim - Hamburg - Copenhagen - Växjö
+
+
 
