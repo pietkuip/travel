@@ -74,5 +74,5 @@ six hours to get to Copenhagen.
 My train to Sweden was overcrowded too, because one or more previous trains had been cancelled. At CPH airport, not everybody
 could get on board.
 
-Next time I will fly.
+I may get another Interrail pass in the future. But to southern Spain, I would fly. So many problems.
 
