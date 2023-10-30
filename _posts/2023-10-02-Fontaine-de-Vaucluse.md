@@ -12,3 +12,5 @@ author: pietkuip
 
 Another Monday, another longer cycling trip. This time to Fontaine de Vaucluse. Now that I am back home I see in an old photo
 album that I was here also in 1987.
+
+![](../images-hq/Fontaine-de-Vaucluse.jpg)
