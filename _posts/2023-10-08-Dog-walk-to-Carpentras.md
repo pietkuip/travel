@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Dog walk to Carpentras"
-description: A long Sunday walk along the Canal de Carpentras
+description:
 date:   2023-10-08 10:51:47 +0530
 categories: jekyll update
 img: Carpentras-Tahoe.jpg
