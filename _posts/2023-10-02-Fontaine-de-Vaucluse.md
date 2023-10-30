@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Fontaine de Vaucluse"
-description: When I looked in old photo albums, I saw that I had been here in 1987.
+description: When I looked in old photo albums, I saw that I had been here in 1987. This is where the Sorgue starts. It is a karst spring, the water comes straight out of the mountain.
 date:   2023-10-02 10:51:47 +0530
 categories: jekyll update
 img: Fontaine-de-Vaucluse-bridge.jpg
