@@ -31,7 +31,7 @@ Costa del Sol, then back home again on May 23. I just made it in time. I think I
 #### May 20-23: Málaga - Barcelona - Portbou - Narbonne - Avignon - Valence - Grenoble - Geneva - Olten - Mannheim - Hamburg - Copenhagen - Växjö
 
 It would probably have cost me less money to take the plane home from southern Spain. The journey would certainly have been 
-less cumbersome and arduous.
+less cumbersome and arduous. The only stretch without problems was in Switzerland.
 
 First problem was to get a ticket. In Spain, one cannot do that online it seems. One needs to go to a railway station. Well,
 in Estepona the nearest Renfe station was in Algeciras (across the bay from Gibraltar). It was also difficult to buy tickets for 
@@ -50,7 +50,7 @@ Everybody was waiting on the platform for the French train, but it did not come.
 have information. It was clearly not their job to tell us about the French trains. Then people found out that there was yet another
 railway strike in France. It affected half the trains! So that made it impossible for me to reach my connections in time.
 
-I got off the train at Narbonne, continued by TER to Avignon from there the Valence. Then the last train to Grenoble. 
+I got off the train at Narbonne, continued by TER to Avignon, from there to Valence. Then the last train to Grenoble. 
 So that was a change of plan: I would try to get through Switzerland to Hamburg instead. With the first train in the morning 
 to Geneva. It was not worth it to take a hotel for a few hours. I got some take-out food, ate it around 1 am, then walked around 
 the city or sat by the river until the station opened in the morning.
