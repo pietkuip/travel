@@ -18,6 +18,6 @@ would get wrapped around me.
 
 So on Sunday morning I started along the irrigation canal towards the North, without a real plan on how far we would get.
 
-![Tahou entering Carpentras](IMG_5957.jpeg)
+![Tahou entering Carpentras](../hq-images/IMG_5957.jpeg)
 
 
