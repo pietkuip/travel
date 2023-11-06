@@ -2,12 +2,6 @@
 title: About
 layout: post
 permalink: /about/
----
-
----
-title: About
-layout: post
-permalink: /about/
 img: Me-with-Sparkle.jpg
 ---
 
