@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "A month in Pernes (Provence)"
+title:  "A month in Pernes-les-Fontaines (Provence)"
 description: Sitting a dog and two cats in Pernes-les-Fontaines
 date:   2023-09-11 23:51:47 +0530
 categories: jekyll update
