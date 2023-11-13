@@ -2,7 +2,7 @@
 layout: post
 title:  "A few days in Genthod (Geneva)"
 description: Sitting a dachshund in Switzerland. 
-date:   2023-09-10 10:51:47 +0530
+date:   2023-09-06 10:51:47 +0530
 categories: jekyll update
 img: Dachshund-Milo.jpg
 categories: [petsitting, bicycle]
