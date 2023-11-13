@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "A month in Pernes-les-Fontaines (Provence)"
-description: Sitting a dog and two cats in Pernes-les-Fontaines
+title:  "A month in Pernes-les-Fontaines"
+description: Sitting a dog and two cats in Pernes (Provence)
 date:   2023-09-11 23:51:47 +0530
 categories: jekyll update
 img: Pernes-Nesque.jpg
