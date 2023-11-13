@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "Geneva, Lyon, Avignon, Pernes"
-description: With TER trains to Avignon, then cycling to a sit in Pernes-les-Fontaines
-date:   2023-09-11 10:51:47 +0530
+description: With TER trains to Avignon, then cycling
+date:   2023-09-10 10:51:47 +0530
 categories: jekyll update
 img: Geneva-Lyon.jpg
 categories: [train, bicycle]
