@@ -4,7 +4,7 @@ title:  "A month in Pernes-les-Fontaines"
 description: Sitting a dog and two cats in Pernes (Provence)
 date:   2023-09-11 23:51:47 +0530
 categories: jekyll update
-img: Pernes-Nesque.jpg
+img: Pernes_Tahoe.jpg
 categories: [petsitting, bicycle]
 color: '7E57C2'
 author: pietkuip
